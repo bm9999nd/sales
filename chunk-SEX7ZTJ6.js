@@ -1,0 +1,1 @@
+import{Ka as o,La as r,Z as i,Za as a,fb as p}from"./chunk-GJUWZRP7.js";var d=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=i({type:e,selectors:[["app-print"]],standalone:!0,features:[p],decls:2,vars:0,template:function(n,c){n&1&&(o(0,"p"),a(1,"print works!"),r())}});let t=e;return t})();export{d as PrintComponent};
